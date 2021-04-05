@@ -1,26 +1,26 @@
 {
-    "name": "martian-night",
-    "displayName": "Martian Night",
-    "description": "Inspired by the view of sunset on Mars, here is a theme that can bring the same vibe to your VS Code.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "publisher": "ShaanAlam",
-    "repository": {
-        "type":"git",
-        "url": "https://"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Martian Night",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Martian Night-color-theme.json"
-            }
-        ]
-    }
+  "name": "martian-night",
+  "displayName": "Martian Night",
+  "description": "Inspired by the view of sunset on Mars, here is a theme that can bring the same vibe to your VS Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "publisher": "ShaanAlam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaan71845/martian-night-vscode-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Martian Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Martian Night-color-theme.json"
+      }
+    ]
+  }
 }
