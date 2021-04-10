@@ -81,7 +81,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#6bcafd"
+        "foreground": "#0099ff"
       }
     },
     {
@@ -140,7 +140,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#c3ddff"
+        "foreground": "#9eddff"
       }
     },
     {
@@ -221,7 +221,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#c9dcff"
       }
     },
     {
@@ -232,14 +232,14 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FFCB6B"
+        "foreground": "#c9dcff"
       }
     },
     {
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#af92ff"
       }
     },
     {
@@ -299,7 +299,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#82AAFF"
+        "foreground": "#0099ff"
       }
     },
     {
