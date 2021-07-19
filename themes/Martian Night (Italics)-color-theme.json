@@ -786,6 +786,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#e09956"
       }
     },
