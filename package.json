@@ -6,11 +6,21 @@
   "engines": {
     "vscode": "^1.55.0"
   },
-  "publisher": "ShaanAlam",
+  "publisher": "shaanalam718",
   "repository": {
     "type": "git",
     "url": "https://github.com/shaan71845/martian-night-vscode-theme"
   },
+  "keywords": [
+    "dark theme",
+    "dark blue theme",
+    "dark",
+    "blue theme",
+    "blue theme",
+    "martian night",
+    "dracula",
+    "shaan alam"
+  ],
   "icon": "images/logo.png",
   "categories": [
     "Themes"
@@ -21,6 +31,16 @@
         "label": "Martian Night",
         "uiTheme": "vs-dark",
         "path": "./themes/Martian Night-color-theme.json"
+      },
+      {
+        "label": "Martian Night (Italic)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Martian Night (Italics)-color-theme.json"
+      },
+      {
+        "label": "Martian Night (Bold)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Martian Night (Bold)-color-theme.json"
       }
     ]
   }

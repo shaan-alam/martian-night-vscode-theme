@@ -336,7 +336,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#eeeeee"
       }
     },
     {
@@ -673,6 +673,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#cc6be9"
       }
     },
@@ -1692,6 +1693,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#7f848e"
       }
     },

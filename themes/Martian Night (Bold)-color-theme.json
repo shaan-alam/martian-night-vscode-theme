@@ -673,6 +673,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
+        "fontStyle": "bold",
         "foreground": "#cc6be9"
       }
     },
@@ -1692,6 +1693,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
+        "fontStyle": "bold",
         "foreground": "#7f848e"
       }
     },
