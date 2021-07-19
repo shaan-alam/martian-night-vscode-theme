@@ -2,7 +2,7 @@
   "name": "martian-night",
   "displayName": "Martian Night",
   "description": "Inspired by the view of sunset on Mars, here is a theme that can bring the same vibe to your VS Code.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.55.0"
   },
