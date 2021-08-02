@@ -1,5 +1,5 @@
 {
-  "name": "Untitled",
+  "name": "Martian Night (Italic)",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -377,6 +377,7 @@
       "name": "js console function",
       "scope": "entity.name.function,support.function.console",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#61afef"
       }
     },
@@ -652,6 +653,7 @@
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#fa909e"
       }
     },
@@ -1743,7 +1745,7 @@
     "foreground": "#cccccc",
     "focusBorder": "#007fd4",
     "selection.background": "#256aa7",
-    "scrollbar.shadow": "#000000",
+    "scrollbar.shadow": "#181822",
     "activityBar.foreground": "#9fc9ff",
     "activityBar.background": "#161620",
     "activityBar.inactiveForeground": "#ffffff66",
@@ -1889,7 +1891,7 @@
     "breadcrumb.background": "#1a1a25",
     "breadcrumb.foreground": "#cccccccc",
     "breadcrumb.focusForeground": "#e0e0e0",
-    "editorGroupHeader.tabsBackground": "#1e1e2c",
+    "editorGroupHeader.tabsBackground": "#181822",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#252526",
     "tab.activeBackground": "#191924",
@@ -1897,9 +1899,9 @@
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#1c222b",
     "tab.inactiveForeground": "#ffffff80",
-    "scrollbarSlider.background": "#79797966",
-    "scrollbarSlider.hoverBackground": "#646464b3",
-    "scrollbarSlider.activeBackground": "#bfbfbf66",
+    "scrollbarSlider.background": "#333363",
+    "scrollbarSlider.hoverBackground": "#292952",
+    "scrollbarSlider.activeBackground": "#45457a",
     "progressBar.background": "#0e70c0",
     "widget.shadow": "#0000005c",
     "editorWidget.foreground": "#cccccc",
@@ -1976,7 +1978,7 @@
     "minimap.warningHighlight": "#cca700",
     "minimap.background": "#181822",
     "sideBar.dropBackground": "#383b3d",
-    "editorGroup.emptyBackground": "#161618",
+    "editorGroup.emptyBackground": "#0f0f16",
     "panelSection.border": "#80808059",
     "statusBarItem.activeBackground": "#FFFFFF25",
     "settings.headerForeground": "#cccccc",
@@ -1985,6 +1987,8 @@
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#333333",
-    "debugExceptionWidget.border": "#474747"
+    "debugExceptionWidget.border": "#474747",
+    "welcomePage.background": "#181822",
+    "welcomePage.buttonBackground": "#181822"
   }
 }
