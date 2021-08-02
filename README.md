@@ -33,15 +33,15 @@
 
 <h1>Screenshots</h1>
 <h4>Normal</h4>
-<img align="center" src="https://user-images.githubusercontent.com/48273777/127811969-8ef47566-709e-43d9-ad60-10e8b6bc21f3.png" title="Normal" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127845261-10ecd6c7-0ec8-42cc-906e-992951c4be2e.png" title="Normal" />
 <br />
 
 <h4>Bold</h4>
-<img align="center" src="https://user-images.githubusercontent.com/48273777/127812106-7a731657-def7-4660-91bf-584ac2844f00.png" title="Bold" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127845282-66034527-9cfc-4cfa-9733-089a982c18f8.png" title="Bold" />
 <br />
 
 <h4>Italics</h4>
-<img align="center" src="https://user-images.githubusercontent.com/48273777/127812081-f8313b9d-8b01-48e7-ad68-044e7d53469d.png" title="Italics" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127845302-60023b01-ecbe-43c6-9860-9a3ea6fb3ea0.png" title="Italics" />
 <br />
 
 <h5 align="center">Made with ❤️ by <a href="https://www.github.com/shaan71845">Shaan Alam</a></h5>
