@@ -31,15 +31,15 @@
 
 <h1>Screenshots</h1>
 <h4>Normal</h4>
-<img height="525" width="525"  align="center" src="https://user-images.githubusercontent.com/48273777/127845261-10ecd6c7-0ec8-42cc-906e-992951c4be2e.png" title="Normal" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127845261-10ecd6c7-0ec8-42cc-906e-992951c4be2e.png" title="Normal" />
 <br />
 
 <h4>Bold</h4>
-<img height="525" width="525"  align="center" src="https://user-images.githubusercontent.com/48273777/127845282-66034527-9cfc-4cfa-9733-089a982c18f8.png" title="Bold" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127846166-c6951b10-056a-44d1-8836-0238d04e9761.png" title="Bold" />
 <br />
 
 <h4>Italics</h4>
-<img height="525" width="525"  align="center" src="https://user-images.githubusercontent.com/48273777/127845302-60023b01-ecbe-43c6-9860-9a3ea6fb3ea0.png" title="Italics" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127845302-60023b01-ecbe-43c6-9860-9a3ea6fb3ea0.png" title="Italics" />
 <br />
 
 <h5 align="center">Made with ❤️ by <a href="https://www.github.com/shaan71845">Shaan Alam</a></h5>
