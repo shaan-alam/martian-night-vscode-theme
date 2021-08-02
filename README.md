@@ -3,14 +3,7 @@
 <p align="center">Inspired by the view of sunset on Mars, here is a theme that can bring the same vibe to your VS Code.</p>
 <hr/>
 
-<p align="center">
-<img src="https://img.shields.io/github/stars/shaan71845/martian-night-vscode-theme?style=for-the-badge">
-
-<img src="https://img.shields.io/github/forks/shaan71845/martian-night-vscode-theme?style=for-the-badge">
-
-</p>
-
-
+[![Version](https://vsmarketplacebadge.apphb.com/version/shaanalam718.martian-night.svg)](https://marketplace.visualstudio.com/items?itemName=shaanalam718.martian-night) [![Installs](https://vsmarketplacebadge.apphb.com/installs/shaanalam718.martian-night.svg)](https://marketplace.visualstudio.com/items?itemName=shaanalam718.martian-night) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/shaanalam718.martian-night.svg)](https://marketplace.visualstudio.com/items?itemName=shaanalam718.martian-night) [![GitHub stars](https://img.shields.io/github/stars/shaan71845/martian-night-vscode-theme.svg?style=social&label=Star&maxAge=2592000)](https://github.com/shaan71845/martian-night-vscode-theme/) [![GitHub forks](https://img.shields.io/github/forks/shaan71845/martian-night-vscode-theme.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/shaan71845/martian-night-vscode-theme/)
 
 ![Martian Night](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lcs75qklu9q2k9qhxojh.png)
 
@@ -23,10 +16,12 @@
 
 <h1>Contributing</h1>
 
-1.  Clone this repo and open in VS Code
-2.  Open run `View → Run`
-3.  Click `Launch Extension`. This will open up another VS Code Editor
-4.  Make changes to `Martian Night-color-theme.json`. You will see changes reflected in the other editor that opened in step 3.
+1.  Fork & Clone this repo and open in VS Code
+2.  Press F5 to start the debugger. This will open up another VS Code Editor
+3.  Make changes to `Martian Night-color-theme.json`, `Martian Night (Italics)-color-theme.json`, or `Martian Night (Bold)-color-theme.json` to make changes to the respective version of the theme. You will see changes reflected in the other editor that opened in step 3.
+4. Open a Pull Request.
+
+
 
 <h1>Supported languages</h1>
 
@@ -38,18 +33,15 @@
 
 <h1>Screenshots</h1>
 <h4>Normal</h4>
-<img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/212sufm5ihmyltbkv3uf.png" title="Normal" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127811969-8ef47566-709e-43d9-ad60-10e8b6bc21f3.png" title="Normal" />
 <br />
 
 <h4>Bold</h4>
-<img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8yx2f95w42qq1c35eqw.png" title="Bold" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127812106-7a731657-def7-4660-91bf-584ac2844f00.png" title="Bold" />
 <br />
 
 <h4>Italics</h4>
-<img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/920dqj5hia0q0841j0sn.png" title="Italics" />
+<img align="center" src="https://user-images.githubusercontent.com/48273777/127812081-f8313b9d-8b01-48e7-ad68-044e7d53469d.png" title="Italics" />
 <br />
-
-
-
 
 <h5 align="center">Made with ❤️ by <a href="https://www.github.com/shaan71845">Shaan Alam</a></h5>
